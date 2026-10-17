@@ -1,0 +1,6 @@
+{
+  "name": "FinPilot AI",
+  "description": "AI-powered Personal Finance Assistant with automated budgeting, smart insights, and natural language command execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
